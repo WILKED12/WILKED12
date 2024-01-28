@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">I am learning everything about Frontend.</h3>
-
-- 🌱 I’m currently learning **javaScript**
-
 <p align="center">
+- 🌱 I’m currently learning **javaScript**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
